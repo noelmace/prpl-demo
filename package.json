@@ -1,10 +1,10 @@
 {
-  "name": "web-on-fire",
+  "name": "demo-prpl",
   "version": "0.1.0",
-  "description": "Exercices and demos for my Web on F.I.R.E. talks",
+  "description": "demos of PRPL for Web on F.I.R.E. talks",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noelmace/web-on-fire.git"
+    "url": "git+https://github.com/noelmace/demo-prpl.git"
   },
   "keywords": [
     "PWA, service worker, vanillajs"
@@ -24,9 +24,9 @@
     "prettify": "prettier --write ./**/*.{json,html,css,scss,md,js,ts}"
   },
   "bugs": {
-    "url": "https://github.com/noelmace/web-on-fire/issues"
+    "url": "https://github.com/noelmace/demo-prpl/issues"
   },
-  "homepage": "https://github.com/noelmace/web-on-fire#readme",
+  "homepage": "https://github.com/noelmace/demo-prpl#readme",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.2.7",
     "cors": "^2.8.5",

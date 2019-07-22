@@ -1,14 +1,4 @@
-# Web On F.I.R.E.
-
-:fire: **Learning materials for Web's modern capabilities & Progressive Web Apps.** :fire:
-
-<br>
-
-![](https://media.giphy.com/media/SpZEbPjQTTKZa/giphy.gif)
-
-<br>
-
-**F**ast, **I**ntegrated, **R**eliable & **E**ngaging Web Apps with state-of-the-art techniques.
+# PRPL Demo APP
 
 ## Docs/slides
 
@@ -17,8 +7,6 @@ All docs & slides are availables at:
 > **[fire.noelmace.com](http://fire.noelmace.com)**
 
 ## Light it up!
-
-### PRPL Demo App
 
 1. Install dependencies: `npm i`
 1. Install nghttp2 (see instructions [below](#nghttp2))
@@ -69,16 +57,3 @@ To do so, run:
 This project may contain a bunch of work in progress as I use it mainly to experiment new modern web capabilities and approach, in order to demonstrate them during my talks & workshops. As a result, there is a good chance that some part of it simply doesn't work, or that the documentation will not be sufficient by itself to allow a complete understanding. _This is especially the case with "steps" (`/steps` & `npm run step --step="step-name"`)._
 
 **Please, open an issue if you have any question, request or suggestion!**
-
-## Acknowledgements
-
-This project couldn't exist without the support of my company, [Bonitasoft](https://www.bonitasoft.com), and the help I get from all our teams!
-
-At first, I started it as a fork from the Open Source PWA [SFEIR School](https://github.com/sfeir-open-source/sfeir-school-pwa) I contributed to re-design and update between late 2018 and early 2019. This wouldn't have been possible without the help I got from a lot of people there.
-
-A big thanks to them all, and especially the following people who helped me a lot:
-
-| <a href="https://github.com/jefBinomed" target="_blank">Jean-François<br>Garreau</a> |                     <a href="https://github.com/manekinekko" target="_blank">Wassim<br>Chegham</a>                      |        <a href="https://github.com/wolfgangGoedel" target="_blank">Wolfgang<br>Goedel</a>        |             <a href="https://github.com/dahfazz" target="_blank">Fabien<br>Zibi</a>              |
-| :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-|         ![jefBinomed](https://avatars0.githubusercontent.com/u/681267?s=100)         |                        ![Wassil Chegham](https://avatars1.githubusercontent.com/u/1699357?s=100)                        |          ![Wolfgang Goedel](https://avatars3.githubusercontent.com/u/3933928?s=100&v=4)          |              ![Fabien Zibi](https://avatars0.githubusercontent.com/u/1621916?s=100)              |
-| [contributions](https://github.com/Sfeir/pwa-200/graphs/contributors)<br> & support  | [Original idea](https://github.com/Sfeir/pwa-200/graphs/contributors)<br> & [OSS](https://github.com/sfeir-open-source) | [workshop](https://twitter.com/bestofwebconf/status/1004696329208172544)<br> co-presenter (2019) | [workshop](https://twitter.com/bestofwebconf/status/1004696329208172544)<br> co-presenter (2018) |
